@@ -91,7 +91,8 @@ int main()
 			printf("Hit the XBox Button\n");
 			printf("YOU hit RIGHT(DPad) Button\n");
 		}
-		if (state.Gamepad.wButtons == XINPUT_GAMEPAD_DPAD_LEFT)			{
+		if (state.Gamepad.wButtons == XINPUT_GAMEPAD_DPAD_LEFT)			
+		{
 			system("cls");
 			printf("Hit the XBox Button\n");
 			printf("YOU hit LEFT(DPad) Button\n");
