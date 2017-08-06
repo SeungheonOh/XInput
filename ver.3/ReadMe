@@ -1,2 +1,14 @@
 
 
+8/6/2017 
+
+-Add functions
+    -GetTriggerInput
+         GetLTriggerInput();   
+         GetRTriggerInput();
+    -GetStickInput
+        GetRStickX();
+        GetRStickY();
+        GetLStickX();
+        GetLStickY();
+    
